@@ -1,0 +1,73 @@
+_repo: The-White-Knight--Tirant-Lo-Blanc_378
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rudder, Robert S.
+    gutenberg_agent_id: '209'
+    url: http://www.gutenberg.org/2009/agents/209
+creator:
+  authors:
+  - agent_name: Martorell, Joanot
+    aliases:
+    - Martorell, Juan
+    - Martorell, Joannot
+    - Martorell, Pedro Juan
+    deathdate: 1468
+    gutenberg_agent_id: '208'
+    url: http://www.gutenberg.org/2009/agents/208
+    wikipedia: http://en.wikipedia.org/wiki/Joanot_Martorell
+  - agent_name: Galba, Martí Joan de
+    aliases:
+    - Gralla, Martín Juan de
+    - Galla, Martín Juan de
+    - Galba, Marti Joan de
+    - Gralla, Martin Juan de
+    deathdate: 1490
+    gutenberg_agent_id: '210'
+    url: http://www.gutenberg.org/2009/agents/210
+    wikipedia: http://en.wikipedia.org/wiki/Martí_Joan_de_Galba
+description: "Tirant lo Blanch (Valencian pronunciation: [tiˈɾand lo ˈblaŋk], modern\
+  \ orthography: Tirant lo Blanc) is a chivalric romance written by the Valencian\
+  \ knight Joanot Martorell, finished posthumously by his friend Martí Joan de Galba\
+  \ and published in the city of Valencia in 1490 as an incunabulum edition. The title\
+  \ means \"Tirant the White\" and is the name of the main character in the romance.\
+  \ It is one of the best known medieval works of literature in Valencian and played\
+  \ an important role in the evolution of the Western novel through its influence\
+  \ on the author Miguel de Cervantes.\nIts spelling in Modern Valencian is Tirant\
+  \ lo Blanc, but it is also referred to by its original spelling Tirant lo Blanch,\
+  \ where the h is silent.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '378'
+  wikidata: Q559667
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PC'
+- GITenberg
+title: 'The White Knight: Tirant Lo Blanc'
+url: http://www.gutenberg.org/ebooks/378
+wikipedia:
+- https://fr.wikipedia.org/wiki/Tirant_le_Blanc
+- https://nl.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C
+- https://pt.wikipedia.org/wiki/Tirante_o_Branco
+- https://eu.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://sv.wikipedia.org/wiki/Tirant_den_Vite
+- https://de.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://es.wikipedia.org/wiki/Tirante_el_Blanco
+- https://vi.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://en.wikipedia.org/wiki/Tirant_lo_Blanch
+- https://it.wikipedia.org/wiki/Tirant_lo_Blanch
+- https://br.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B0%D0%BD%D1%82_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9
+- https://ca.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://gl.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://oc.wikipedia.org/wiki/Tirant_lo_Blanc
+- https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%90%D7%A0%D7%98_%D7%9C%D7%95_%D7%91%D7%9C%D7%90%D7%A0%D7%A9
