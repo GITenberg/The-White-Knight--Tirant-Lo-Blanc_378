@@ -1,10 +1,13 @@
 _repo: The-White-Knight--Tirant-Lo-Blanc_378
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Rudder, Robert S.
     gutenberg_agent_id: '209'
     url: http://www.gutenberg.org/2009/agents/209
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Martorell, Joanot
@@ -36,6 +39,8 @@ description: "Tirant lo Blanch (Valencian pronunciation: [tiˈɾand lo ˈblaŋk]
   \ on the author Miguel de Cervantes.\nIts spelling in Modern Valencian is Tirant\
   \ lo Blanc, but it is also referred to by its original spelling Tirant lo Blanch,\
   \ where the h is silent.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/378#The-White-Knight--Tirant-Lo-Blanc
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
